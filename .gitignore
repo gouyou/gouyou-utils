@@ -1,0 +1,10 @@
+*.pyc
+*.c
+*.egg-info
+*.so
+.benchmark
+.cache
+.eggs
+.idea
+__pycache__
+build
